@@ -10,7 +10,7 @@ end
 local SilentAimSettings = {
     Enabled = true,
     
-    ClassName = "Universal Silent Aim - Averiias, Stefanuk12, xaxa",
+    ClassName = "Universal Silent Aim | MADE BY 0NLYKAI",
     ToggleKey = "Z",
     
     TeamCheck = false,
